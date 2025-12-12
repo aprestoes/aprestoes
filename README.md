@@ -15,9 +15,3 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 \+ more!
-
-
-### The Stats
-<a href="https://github.com/aprestoes?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aprestoes&layout=compact" />
-</a>
